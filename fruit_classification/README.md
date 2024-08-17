@@ -9,14 +9,14 @@ Import Libraries:
 2. Data Preprocessing
 3. Data Visualization
 4. Feature Engineering
-4. 1.  Convert data to NumPy
-4. 2. One-hot encoding
+ 1.  Convert data to NumPy
+ 2. One-hot encoding
 5. Train test validation
 6. Rescale and augmenation
 7. Train_model
 8. Evaluation
 9. Predict validation
-9. 1. Convert predict NumPy to predict one hot
+ 1. Convert predict NumPy to predict one hot
 10. Predict test
 11. Export File
 12. Other Parameter
