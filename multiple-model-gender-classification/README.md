@@ -23,9 +23,9 @@ The objective of this project is to develop and evaluate multiple machine learni
 
 
 ## Result
-The accuracy of the models varied, with Decision Tree Classifier and MLPClassifier achieving the highest accuracy of 75%.
-SVM, Logistic Regression, and Random Forest Classifier achieved around 70% accuracy.
-KNN, GaussianNB, and SGDClassifier performed lower, with accuracies ranging from 40% to 60%.
+1. The accuracy of the models varied, with Decision Tree Classifier and MLPClassifier achieving the highest accuracy of 75%.
+2. SVM, Logistic Regression, and Random Forest Classifier achieved around 70% accuracy.
+3. KNN, GaussianNB, and SGDClassifier performed lower, with accuracies ranging from 40% to 60%.
 
 ## Documentation
 [multiple-model-gender-classification-75-percent.ipynb](https://github.com/micsupasun/kaggle/blob/main/multiple-model-gender-classification/multiple-model-gender-classification-75-percent.ipynb) appears to be a machine learning project focused on gender classification using multiple models. 
