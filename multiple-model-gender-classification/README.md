@@ -28,4 +28,4 @@ SVM, Logistic Regression, and Random Forest Classifier achieved around 70% accur
 KNN, GaussianNB, and SGDClassifier performed lower, with accuracies ranging from 40% to 60%.
 
 ## Documentation
-[multiple-model-gender-classification-75-percent.ipynb]() appears to be a machine learning project focused on gender classification using multiple models. 
+[multiple-model-gender-classification-75-percent.ipynb](https://github.com/micsupasun/kaggle/blob/main/multiple-model-gender-classification/multiple-model-gender-classification-75-percent.ipynb) appears to be a machine learning project focused on gender classification using multiple models. 
