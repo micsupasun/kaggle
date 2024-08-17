@@ -29,6 +29,6 @@ Import Libraries:
 
 ## Documentation
 
-1. fruit_classification.ipynb: The Jupyter notebook containing all the code, explanations, and outputs related to the fruit classification project.
-2. Dataset Directory: A directory in Google Drive containing subfolders for each fruit category. The images within these folders are used to train and test the model.
+1. [fruit_classification.ipynb](https://github.com/micsupasun/kaggle/blob/main/fruit_classification/fruit_classification.ipynb): The Jupyter notebook containing all the code, explanations, and outputs related to the fruit classification project.
+2. [Dataset Directory](https://github.com/micsupasun/kaggle/tree/main/fruit_classification/data): A directory in Google Drive containing subfolders for each fruit category. The images within these folders are used to train and test the model.
 
