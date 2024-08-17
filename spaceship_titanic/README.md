@@ -23,5 +23,5 @@ The goal of the "Spaceship Titanic" project is to predict which passengers were 
 The results section typically includes the evaluation metrics of the models used, a comparison of their performance, and possibly a summary of the best model's performance. The notebook might also include visualizations of model predictions and feature importances. The final output is a prediction of whether each passenger was transported, formatted according to the competition's requirements for submission.
 
 ## Documentation
-space_ship_titanic[originv2].ipynb: The notebook is focused on solving the Kaggle competition problem titled "Spaceship Titanic." The objective is to predict whether passengers aboard the Titanic spaceship were transported to another dimension based on various features in the dataset.
+[space_ship_titanic_originv2.ipynb](https://github.com/micsupasun/kaggle/blob/main/spaceship_titanic/space_ship_titanic%5Boriginv2%5D.ipynb): The notebook is focused on solving the Kaggle competition problem titled "Spaceship Titanic." The objective is to predict whether passengers aboard the Titanic spaceship were transported to another dimension based on various features in the dataset.
 
